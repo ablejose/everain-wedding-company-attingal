@@ -1,0 +1,58 @@
+{
+  "slug": "everain-wedding-company-attingal",
+  "name": "Everain Wedding Company",
+  "shortName": "Everain",
+  "descriptor": "Event Management",
+  "address": "Navaikulam, Keralam 695603",
+  "area": "Navaikulam",
+  "city": "Attingal",
+  "district": "Thiruvananthapuram",
+  "region": "Kerala",
+  "postalCode": "695603",
+  "geo": {
+    "lat": 8.7908286,
+    "lng": 76.79522229999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=11340341964507500471",
+  "phone": "+91 92076 56655",
+  "whatsapp": "919207656655",
+  "instagram": "https://www.instagram.com/everain_weddings",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 23,
+  "reviews": [
+    {
+      "name": "Muhammed Azharudeen",
+      "rating": 5,
+      "quote": "We were astounded by the degree of beauty and skill when we saw the finished pictures. Every picture was a work of art, conveying the love and happiness we felt in those fleeting seconds. The Everain wedding company and its staff was able to capture the feelings and produce enduring memories that we will always treasure."
+    },
+    {
+      "name": "Arshitha A.S",
+      "rating": 5,
+      "quote": "Highly recommend them. I am satisfied with customer services and very friendly nature. The photos are good. The output came out to be wonderful ❤️."
+    },
+    {
+      "name": "Fathima Badarudeen",
+      "rating": 5,
+      "quote": "Really satisfied with their work. They made us feel completely at ease capturing every special moment with such grace and artistry. Photos are stunning full of life and emotion what we wanted. Highly recommend them."
+    },
+    {
+      "name": "Arjun AR",
+      "rating": 5,
+      "quote": "The photo album they crafted is a true work of art, exceeding our expectations. Highly recommend their services to any couple seeking exceptional photography for their special day."
+    },
+    {
+      "name": "Anuprabha D.S",
+      "rating": 5,
+      "quote": "Absolutely thrilled with the impeccable service and stunning photos delivered. photography team! From start to finish, they provided a seamless experience, capturing every precious moment with finesse."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://everain-wedding-company-attingal.vercel.app"
+}
